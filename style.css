@@ -1,0 +1,50 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jan 28, 2018, 12:06:51 AM
+    Author     : Raju
+*/
+body{
+    font-family: caption;
+}
+.hold-transition.login-page {
+  background-color: #D2D6DE;
+}
+
+
+.login-box-body{
+  background: #fff;
+  margin-top: 13%;
+  padding: 36px;
+  color: #000;
+}
+
+.login-box-body.new-account {
+    background: #fff;
+    margin-top: 9%;
+    padding: 36px;
+    color: #000;
+}
+.login-box-msg {
+  text-align: center;
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+.create-box{
+    width: 50%;
+}
+
+.radio-button {
+  padding: 10px;
+  margin-right: 76px;
+}
+.btn.btn-primary.btn-block.btn-flat.new {
+  margin-left: 224px;
+}            
+.create {
+    border-bottom: 1px solid;
+    padding-bottom: 6px;
+}  
